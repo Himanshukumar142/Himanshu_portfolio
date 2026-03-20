@@ -83,7 +83,7 @@ export default function Navbar() {
 
                 {/* Right CTA */}
                 <a
-                    href="/resume.pdf"
+                    href="public/Himanshu new12.pdf"
                     download
                     style={{
                         fontFamily: "'Inter', sans-serif",
